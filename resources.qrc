@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>Bracket.qml</file>
+        <file>bracketview.qml</file>
+        <file>mapview.qml</file>
+    </qresource>
+</RCC>
